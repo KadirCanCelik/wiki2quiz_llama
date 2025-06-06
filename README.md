@@ -7,6 +7,8 @@ This project uses the **LLaMA 3 (8B Instruct)** language model to automatically 
 - Automatically pulls content from **Wikipedia** in English
 - Uses a local LLaMA 3 model to generate questions from the content
 - Runs fully offline, no API keys or internet access required
+- This project uses the `[Meta LLaMA 3 8B Instruct (Q4_K_M)] (https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF)` model in GGUF format.
+
 
 ## 📋 Sample Output
 
